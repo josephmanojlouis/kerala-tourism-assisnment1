@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+
+#moving {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:orange;
+    font-style: oblique;
+}
+footer {
+    
+    margin-top: 18%;
+    color: hotpink;
+    
+    
+
+}
+footer h6 {
+    text-align: center;
+}
+
+.mymargin {
+    margin: 0px;
+}
+.logo{
+    height: 50px;
+    padding: 2px;
+}
+.login{
+    
+    border: 1px solid brown;
+    background-color:green;
+    height: 25em;
+    margin-top: 3%;
+    margin-right: 2%;
+    padding: 30px;
+}
+.login h2 {
+    text-align: center;
+}
+
+.login input{
+    height: 1.5em;
+}
+.login #login-button {
+    width: 100%;
+    height: 1.8em;
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+
+
+
+
